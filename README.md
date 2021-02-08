@@ -1,3 +1,3 @@
 # react_project
-# http://18.183.11.235/
-# nodejs, react, typescript, 
+# http://www.hosireact.site/
+# Nodejs, Express,React,Redux, Redux-Saga,BootStrap,MongoDB,Linux,AWS 
